@@ -1,0 +1,18 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: nowrap;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+#logo {
+    justify-content: flex-start;
+}
+
+.listItems {
+    justify-content: flex-end;
+}
