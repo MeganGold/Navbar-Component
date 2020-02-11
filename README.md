@@ -1,3 +1,2 @@
 # Navbar-Component
-Html and css only
-Not Responsive
+Html and css only, not responsive.
